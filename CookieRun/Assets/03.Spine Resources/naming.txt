@@ -1,0 +1,6 @@
+Dubble_Jump - 2단점프
+Speed_run - 빠른질주
+die - 죽음
+jump - 1단점프
+run - 달리기
+slid - 밑으로 슬라이드
